@@ -1,6 +1,6 @@
 Hello!! This is my first change in master/Prod branch
 
-
+The third line should not be empty
 Hello !! This is my first change in Feature1 Branch !! This is my second change in Feature2 Branch
 hello !! this is the third commit in Feature1 branch!!
 hello!! this is the fourth change in feature1 branch
